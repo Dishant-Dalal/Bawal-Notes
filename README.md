@@ -1,14 +1,31 @@
-<!DOCTYPEhtml>
 <html>
 <head>
-
+<style>
+    footer{
+  text-align: center;
+  padding: 3px;
+  background-color:black;
+  color: white;
+  font-size: 48px;
+}
+hr{
+height:10px;
+background-color: black;
+}
+marquee{
+  font-size: 48px;
+}
+header{
+  font-size: 48px;
+}
+    </style>
 </head>
 <body>
 <header>
 Hi friends, here you can find all notes regarding your year and semester just click on the subject of which's notes you want you directed to the google drive folder and the dowload the material. I hope this help you a lot. We timely update it also.
 </header>
-<a href="https://instagram.com/bawal.blogger?utm_medium=copy_link"><img src="https://tse3.mm.bing.net/th?id=OIP.fTy9qAJPApPl8VRDC-zOtQHaFj&pid=Api&P=0&w=245&h=185"width="400px"><img src="https://tse2.mm.bing.net/th?id=OIP.6cU6adW4ZFM2wci3dywvuAHaHa&pid=Api&P=0&w=300&h=300">
-</a><img src="https://tse3.mm.bing.net/th?id=OIP.KMGwCzubhNFGnegBbbXgVwHaF4&pid=Api&P=0&w=198&h=158"width="300px"> <img src ="https://tse4.explicit.bing.net/th?id=OIP.RCYCP7uU8F2DZba7EY17gwHaFj&pid=Api&P=0&w=208&h=157"width="300px">
+<a href="https://instagram.com/bawal.blogger?utm_medium=copy_link"><img src="https://tse3.mm.bing.net/th?id=OIP.fTy9qAJPApPl8VRDC-zOtQHaFj&pid=Api&P=0&w=245&h=185"><img src="https://tse2.mm.bing.net/th?id=OIP.6cU6adW4ZFM2wci3dywvuAHaHa&pid=Api&P=0&w=300&h=300">
+</a><img src="https://tse3.mm.bing.net/th?id=OIP.KMGwCzubhNFGnegBbbXgVwHaF4&pid=Api&P=0&w=198&h=158> <img src ="https://tse4.explicit.bing.net/th?id=OIP.RCYCP7uU8F2DZba7EY17gwHaFj&pid=Api&P=0&w=208&h=157>
 <marquee style="color:red" behavior="alternate" scrollamount="33"> This is not a Official Page of any University.  </marquee>
 <br>
 <b style="border:5px; color:green ;font-size: 100px" >

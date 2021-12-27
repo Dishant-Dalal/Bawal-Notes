@@ -24,8 +24,8 @@ header{
 <header>
 Hi friends, here you can find all notes regarding your year and semester just click on the subject of which's notes you want you directed to the google drive folder and the dowload the material. I hope this help you a lot. We timely update it also.
 </header>
-<a href="https://instagram.com/bawal.blogger?utm_medium=copy_link"><img src="https://tse3.mm.bing.net/th?id=OIP.fTy9qAJPApPl8VRDC-zOtQHaFj&pid=Api&P=0&w=245&h=185"><img src="https://tse2.mm.bing.net/th?id=OIP.6cU6adW4ZFM2wci3dywvuAHaHa&pid=Api&P=0&w=300&h=300">
-</a><img src="https://tse3.mm.bing.net/th?id=OIP.KMGwCzubhNFGnegBbbXgVwHaF4&pid=Api&P=0&w=198&h=158> <img src ="https://tse4.explicit.bing.net/th?id=OIP.RCYCP7uU8F2DZba7EY17gwHaFj&pid=Api&P=0&w=208&h=157>
+<a href="https://instagram.com/bawal.blogger?utm_medium=copy_link"><img src="https://tse3.mm.bing.net/th?id=OIP.fTy9qAJPApPl8VRDC-zOtQHaFj&pid=Api&P=0&w=245&h=185"><img src="https://tse2.mm.bing.net/th?id=OIP.6cU6adW4ZFM2wci3dywvuAHaHa&pid=Api&P=0&w=300&h=300"><img src="https://tse3.mm.bing.net/th?id=OIP.KMGwCzubhNFGnegBbbXgVwHaF4&pid=Api&P=0&w=198&h=158>
+</a>
 <marquee style="color:red" behavior="alternate" scrollamount="33"> This is not a Official Page of any University.  </marquee>
 <br>
 <b style="border:5px; color:green ;font-size: 100px" >
@@ -74,8 +74,8 @@ Choose the Subject for 5<sup>th</sup>year/6year prog. 2<sup>nd</sup> sem
 <hr>
 </body>
 <footer bgcolor="black">
-   <h > Hi, I am DISHANT DALAL from COLLEGE OF AGRICULTURE,BAWAL.<br>
+   Hi, I am DISHANT DALAL from COLLEGE OF AGRICULTURE,BAWAL.<br>
      This is my first website.<br>
       You can contact me on my E-mail:<a href="mailto: dishantdalal2003@gmail.com"> dishantdalal2003@gmail.com</a> or instagram: <a href="https://www.instagram.com/dishant_dalal2/?utm_medium=copy_link">dishant_dalal2</a>
-    </footer>
+    
 </html>
